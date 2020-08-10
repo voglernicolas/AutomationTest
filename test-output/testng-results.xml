@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestingExperta" duration-ms="27167" started-at="2020-08-10T09:51:12Z" finished-at="2020-08-10T09:51:39Z">
+    <groups>
+    </groups>
+    <test name="Text Check" duration-ms="27167" started-at="2020-08-10T09:51:12Z" finished-at="2020-08-10T09:51:39Z">
+      <class name="com.testing.experta.testCases.TC_CheckText_Productores_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Productores_001@2b917fb0]" name="setup" is-config="true" duration-ms="6541" started-at="2020-08-10T06:51:21Z" finished-at="2020-08-10T06:51:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkProductores()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Productores_001@2b917fb0]" name="checkProductores" duration-ms="1863" started-at="2020-08-10T06:51:28Z" finished-at="2020-08-10T06:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkProductores -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Productores_001@2b917fb0]" name="tearDown" is-config="true" duration-ms="613" started-at="2020-08-10T06:51:29Z" finished-at="2020-08-10T06:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testing.experta.testCases.TC_CheckText_Productores_001 -->
+      <class name="com.testing.experta.testCases.TC_CheckText_Seguros_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Seguros_001@7d0cc890]" name="setup" is-config="true" duration-ms="7031" started-at="2020-08-10T06:51:12Z" finished-at="2020-08-10T06:51:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkSeguros()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Seguros_001@7d0cc890]" name="checkSeguros" duration-ms="1106" started-at="2020-08-10T06:51:19Z" finished-at="2020-08-10T06:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSeguros -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Seguros_001@7d0cc890]" name="tearDown" is-config="true" duration-ms="649" started-at="2020-08-10T06:51:20Z" finished-at="2020-08-10T06:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testing.experta.testCases.TC_CheckText_Seguros_001 -->
+      <class name="com.testing.experta.testCases.TC_CheckText_Servicios_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Servicios_001@5e5073ab]" name="setup" is-config="true" duration-ms="6471" started-at="2020-08-10T06:51:30Z" finished-at="2020-08-10T06:51:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkServicios()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Servicios_001@5e5073ab]" name="checkServicios" duration-ms="2085" started-at="2020-08-10T06:51:37Z" finished-at="2020-08-10T06:51:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServicios -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Servicios_001@5e5073ab]" name="tearDown" is-config="true" duration-ms="630" started-at="2020-08-10T06:51:39Z" finished-at="2020-08-10T06:51:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testing.experta.testCases.TC_CheckText_Servicios_001 -->
+    </test> <!-- Text Check -->
+  </suite> <!-- TestingExperta -->
+</testng-results>

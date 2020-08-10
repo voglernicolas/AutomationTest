@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestingExperta">
+
+	<listeners>
+		<listener class-name="com.testing.experta.utilities.Reports" />
+	</listeners>
+
+	<test name="Text Check">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.testing.experta.testCases.TC_CheckText_Seguros_001" />
+			<class name="com.testing.experta.testCases.TC_CheckText_Productores_001" />
+			<class name="com.testing.experta.testCases.TC_CheckText_Servicios_001" />
+		</classes>
+	</test>
+
+</suite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestingExperta]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.testing.experta.utilities.Reports"/>
+  </listeners>
+  <test name="Text Check(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.testing.experta.testCases.TC_CheckText_Seguros_001">
+        <methods>
+          <include name="checkSeguros"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testing.experta.testCases.TC_CheckText_Seguros_001 -->
+    </classes>
+  </test> <!-- Text Check(failed) -->
+</suite> <!-- Failed suite [TestingExperta] -->
