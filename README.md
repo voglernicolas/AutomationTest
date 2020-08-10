@@ -1,6 +1,6 @@
 # Jenkins implementation
 
-![Alt Text](https://imgur.com/f3z9fZn)
+![Alt Text](https://ibb.co/ryySQCL)
 
   
 
