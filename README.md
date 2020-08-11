@@ -44,12 +44,12 @@ El mismo puede cambiarse en `./TestNG.xml` modificando `value="chrome"`:
 
 ```xml
 <test name="Text Check">
-		<parameter name="browser" value="chrome" />
-		<classes>
-			<class name="com.testing.experta.testCases.TC_CheckText_Seguros_001" />
-			<class name="com.testing.experta.testCases.TC_CheckText_Productores_001" />
-			<class name="com.testing.experta.testCases.TC_CheckText_Servicios_001" />
-		</classes>
+	<parameter name="browser" value="chrome" />
+	<classes>
+		<class name="com.testing.experta.testCases.TC_CheckText_Seguros_001" />
+		<class name="com.testing.experta.testCases.TC_CheckText_Productores_001" />
+		<class name="com.testing.experta.testCases.TC_CheckText_Servicios_001" />
+	</classes>
 </test>
 ```
 
