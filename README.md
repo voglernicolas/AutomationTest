@@ -21,11 +21,10 @@ Localmente los test se inician en:
 ## Pre-requisitos e Instalación
 
 * Es necesario una versión de maven 3.6.3 o superior para ejecutar la prueba localmente.
-
 * Tambien es posible ejecutarlo directamente desde un servidor/maquina con jenkins instalado:
+
 ![Jenkins_conexion](https://i.ibb.co/94JSgvX/jen-1.png)
 ![Jenkins_conexion](https://i.ibb.co/rQSbyZ3/jen-2.png)
-
 
 ## Ejecución
 
