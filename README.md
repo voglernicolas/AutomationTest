@@ -1,8 +1,8 @@
-# Nombre de producto
+# Automation Test
 > El objetivo de esta automatización es testear la ortografía de 3 secciones.
 
 <img src="https://img.shields.io/badge/maven-version%203.6.3-blue" alt="Maven version 3.6.3"></a>
-[![Build Status][travis-image]][travis-url]
+<img src="https://img.shields.io/badge/build-success-brightgreen" alt="Hardcoding de build succes por falta de servidor"></a>
 
 El proyectos usa las siguientes tecnologias:
 * Maven 3.6.3
