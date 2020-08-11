@@ -2,69 +2,69 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="TestingExperta" duration-ms="25262" started-at="2020-08-10T19:47:41Z" finished-at="2020-08-10T19:48:06Z">
+  <suite name="TestingExperta" duration-ms="29206" started-at="2020-08-11T17:55:15Z" finished-at="2020-08-11T17:55:44Z">
     <groups>
     </groups>
-    <test name="Text Check" duration-ms="25262" started-at="2020-08-10T19:47:41Z" finished-at="2020-08-10T19:48:06Z">
+    <test name="Text Check" duration-ms="29206" started-at="2020-08-11T17:55:15Z" finished-at="2020-08-11T17:55:44Z">
       <class name="com.testing.experta.testCases.TC_CheckText_Productores_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Productores_001@38082d64]" name="setup" is-config="true" duration-ms="6503" started-at="2020-08-10T16:47:50Z" finished-at="2020-08-10T16:47:57Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Productores_001@38082d64]" name="setup" is-config="true" duration-ms="6983" started-at="2020-08-11T14:55:26Z" finished-at="2020-08-11T14:55:33Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[firefox]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="checkProductores()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Productores_001@38082d64]" name="checkProductores" duration-ms="1130" started-at="2020-08-10T16:47:57Z" finished-at="2020-08-10T16:47:58Z">
+        <test-method status="PASS" signature="checkProductores()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Productores_001@38082d64]" name="checkProductores" duration-ms="1415" started-at="2020-08-11T14:55:33Z" finished-at="2020-08-11T14:55:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkProductores -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Productores_001@38082d64]" name="tearDown" is-config="true" duration-ms="582" started-at="2020-08-10T16:47:58Z" finished-at="2020-08-10T16:47:58Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Productores_001@38082d64]" name="tearDown" is-config="true" duration-ms="859" started-at="2020-08-11T14:55:35Z" finished-at="2020-08-11T14:55:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.testing.experta.testCases.TC_CheckText_Productores_001 -->
       <class name="com.testing.experta.testCases.TC_CheckText_Seguros_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Seguros_001@2ed94a8b]" name="setup" is-config="true" duration-ms="6997" started-at="2020-08-10T16:47:41Z" finished-at="2020-08-10T16:47:48Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Seguros_001@2ed94a8b]" name="setup" is-config="true" duration-ms="7449" started-at="2020-08-11T14:55:15Z" finished-at="2020-08-11T14:55:23Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[firefox]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="checkSeguros()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Seguros_001@2ed94a8b]" name="checkSeguros" duration-ms="1380" started-at="2020-08-10T16:47:48Z" finished-at="2020-08-10T16:47:50Z">
+        <test-method status="PASS" signature="checkSeguros()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Seguros_001@2ed94a8b]" name="checkSeguros" duration-ms="3019" started-at="2020-08-11T14:55:23Z" finished-at="2020-08-11T14:55:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkSeguros -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Seguros_001@2ed94a8b]" name="tearDown" is-config="true" duration-ms="596" started-at="2020-08-10T16:47:50Z" finished-at="2020-08-10T16:47:50Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Seguros_001@2ed94a8b]" name="tearDown" is-config="true" duration-ms="752" started-at="2020-08-11T14:55:26Z" finished-at="2020-08-11T14:55:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.testing.experta.testCases.TC_CheckText_Seguros_001 -->
       <class name="com.testing.experta.testCases.TC_CheckText_Servicios_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Servicios_001@22f71333]" name="setup" is-config="true" duration-ms="6080" started-at="2020-08-10T16:47:58Z" finished-at="2020-08-10T16:48:05Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Servicios_001@22f71333]" name="setup" is-config="true" duration-ms="6616" started-at="2020-08-11T14:55:36Z" finished-at="2020-08-11T14:55:42Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[firefox]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="checkServicios()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Servicios_001@22f71333]" name="checkServicios" duration-ms="1240" started-at="2020-08-10T16:48:05Z" finished-at="2020-08-10T16:48:06Z">
+        <test-method status="PASS" signature="checkServicios()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Servicios_001@22f71333]" name="checkServicios" duration-ms="1220" started-at="2020-08-11T14:55:42Z" finished-at="2020-08-11T14:55:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkServicios -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Servicios_001@22f71333]" name="tearDown" is-config="true" duration-ms="589" started-at="2020-08-10T16:48:06Z" finished-at="2020-08-10T16:48:06Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testing.experta.testCases.TC_CheckText_Servicios_001@22f71333]" name="tearDown" is-config="true" duration-ms="755" started-at="2020-08-11T14:55:43Z" finished-at="2020-08-11T14:55:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

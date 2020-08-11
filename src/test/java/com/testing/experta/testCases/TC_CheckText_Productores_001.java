@@ -5,6 +5,7 @@ import java.io.IOException;
 import org.junit.Assert;
 import org.testng.annotations.Test;
 
+import com.testing.experta.pageObjects.BaseClass;
 import com.testing.experta.pageObjects.Navigation;
 
 public class TC_CheckText_Productores_001 extends BaseClass {

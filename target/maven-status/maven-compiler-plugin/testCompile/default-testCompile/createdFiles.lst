@@ -1,7 +1,7 @@
 com\testing\experta\utilities\GetConfig.class
-com\testing\experta\testCases\BaseClass.class
 com\testing\experta\pageObjects\Navigation.class
 com\testing\experta\testCases\TC_CheckText_Seguros_001.class
 com\testing\experta\utilities\Reports.class
+com\testing\experta\pageObjects\BaseClass.class
 com\testing\experta\testCases\TC_CheckText_Productores_001.class
 com\testing\experta\testCases\TC_CheckText_Servicios_001.class

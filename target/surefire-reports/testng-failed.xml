@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [TestingExperta]">
+  <parameter name="browser" value="firefox"/>
+  <listeners>
+    <listener class-name="com.testing.experta.utilities.Reports"/>
+  </listeners>
+  <test name="Text Check(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.testing.experta.testCases.TC_CheckText_Servicios_001">
+        <methods>
+          <include name="checkServicios"/>
+        </methods>
+      </class> <!-- com.testing.experta.testCases.TC_CheckText_Servicios_001 -->
+      <class name="com.testing.experta.testCases.TC_CheckText_Productores_001">
+        <methods>
+          <include name="checkProductores"/>
+        </methods>
+      </class> <!-- com.testing.experta.testCases.TC_CheckText_Productores_001 -->
+      <class name="com.testing.experta.testCases.TC_CheckText_Seguros_001">
+        <methods>
+          <include name="setup"/>
+          <include name="checkSeguros"/>
+        </methods>
+      </class> <!-- com.testing.experta.testCases.TC_CheckText_Seguros_001 -->
+    </classes>
+  </test> <!-- Text Check(failed) -->
+</suite> <!-- Failed suite [TestingExperta] -->

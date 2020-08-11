@@ -3,6 +3,7 @@ package com.testing.experta.testCases;
 import org.junit.Assert;
 import org.testng.annotations.Test;
 
+import com.testing.experta.pageObjects.BaseClass;
 import com.testing.experta.pageObjects.Navigation;
 
 public class TC_CheckText_Seguros_001 extends BaseClass {
