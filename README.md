@@ -58,4 +58,5 @@ El mismo puede cambiarse en `./TestNG.xml` modificando `value="chrome"`:
 - [ ] Dockerizar selenium standalone para ejecucion en cross browser desde contenedor.
 - [ ] Crear composer.
 
+
 ### License  <img src="https://img.shields.io/badge/licence-Apache%202-yellowgreen" alt="licence-Apache-2"></a>
