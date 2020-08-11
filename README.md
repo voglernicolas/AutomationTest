@@ -34,6 +34,21 @@ El proyecto inicia en la carpeta raíz con el comando:
 mvn clean test
 ```
 
+## Objetivos
+
+El test busca en 3 secciones que una palabra esté bien escrita.
+
+* Seguros > Autos
+![Seguro_autos](https://i.ibb.co/Yb5yhQc/experta-seguros.png)
+
+* Servicios > Denuncia siniestros
+![Denuncia_siniestros](https://i.ibb.co/G03CDSy/experta-denuncia-Siniestros.png)
+
+* Productores
+![Sumamos](https://i.ibb.co/whrwLd4/experta-productores.png)
+
+
+
 ## CI/CD
 
 Jenkins es usado localmente en este proyecto para integración contínua basado en la escucha de commits en este repositorio.
