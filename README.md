@@ -57,6 +57,14 @@ El mismo puede cambiarse en `./TestNG.xml` modificando `value="chrome"`:
 </test>
 ```
 
+## Reportes
+
+Despues de cada ejecución, se crea un reporte en `AutomationTest/test-output/Test-Report-fecha.html`
+El mismo html se puede ejecutar manualmente para verificar resultados.
+
+![Reportes](https://i.ibb.co/sjFbZK0/reportes.png)
+
+
 ## TODO
 - [ ] Dockerizar Jenkins.
 - [ ] Dockerizar selenium standalone para ejecucion en cross browser desde contenedor.
