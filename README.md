@@ -18,9 +18,9 @@ Localmente los test se inician en:
 - maven test pom.xml
 - TestNG.XML
 
-## Instalación
+## Pre-requisitos e Instalación
 
-Es necesario una versión de maven 3.6.3 o superior para ejecutar la prueba localmente
+* Es necesario una versión de maven 3.6.3 o superior para ejecutar la prueba localmente.
 
 ## Ejecución
 
