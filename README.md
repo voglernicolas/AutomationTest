@@ -38,7 +38,7 @@ Jenkins es usado localmente en este proyecto para integración contínua basado 
 
 ## Cross Browser Testing
 
-La ejecución del es apto para Chrome, Internet Explorer, Mozilla Firefox. Por fines de rendimiento se pre-estableció iniciar con Chrome Browser.
+La ejecución del proyecto es apto para Chrome, Internet Explorer, Mozilla Firefox. Por fines de rendimiento se pre-estableció iniciar con Chrome Browser.
 
 El mismo puede cambiarse en `./TestNG.xml` modificando `value="chrome"`:
 
