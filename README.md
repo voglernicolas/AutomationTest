@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/maven-version%203.6.3-blue" alt="Maven version 3.6.3"></a>
 <img src="https://img.shields.io/badge/build-success-brightgreen" alt="Hardcoding de build succes por falta de servidor"></a>
 
-El proyectos usa las siguientes tecnologias:
+El proyecto usa las siguientes tecnologias:
 * Maven 3.6.3
 * TestNG 6.8
 * Selenium WebDriver 3.141.59
