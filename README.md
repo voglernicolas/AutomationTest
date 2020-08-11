@@ -22,6 +22,11 @@ Localmente los test se inician en:
 
 * Es necesario una versión de maven 3.6.3 o superior para ejecutar la prueba localmente.
 
+* Tambien es posible ejecutarlo directamente desde un servidor/maquina con jenkins instalado:
+![Jenkins_conexion](https://i.ibb.co/94JSgvX/jen-1.png)
+![Jenkins_conexion](https://i.ibb.co/rQSbyZ3/jen-2.png)
+
+
 ## Ejecución
 
 El proyecto inicia en la carpeta raíz con el comando:
@@ -34,7 +39,7 @@ mvn clean test
 
 Jenkins es usado localmente en este proyecto para integración contínua basado en la escucha de commits en este repositorio.
 
-![Alt Text](https://i.ibb.co/DtvFzyP/automation.gif)
+![Jenkins_ejecucion](https://i.ibb.co/DtvFzyP/automation.gif)
 
 ## Cross Browser Testing
 
